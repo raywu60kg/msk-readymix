@@ -1,7 +1,7 @@
 ############################# English ############################
 [en]
 languageName = "En"
-title = "Bigspring Hugo"
+title = "MSK READYMIX"
 contentDir = "content/english" # content/english
 weight = 1
 ########### footer content ##########
@@ -14,10 +14,10 @@ copyright = "Design By [Themefisher](https://themefisher.com/) Develop By [Gethu
 
 
 
-############################# Deutsch ############################
-[de]
-languageName = "De"
-title = "Bigspring Hugo"
+############################# Zh ############################
+[zh]
+languageName = "Zh"
+title = "MSK READYMIX"
 contentDir = "content/deutsch" # content/german
 weight = 2
 ########### footer content ##########
