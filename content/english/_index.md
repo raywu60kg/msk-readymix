@@ -4,7 +4,7 @@ banner:
   enable: true
   title : "Find  Ready Mixed Concrete in here"
   image : "images/Barrackssilo_210324_0.jpg"
-  content : "MSK READYMIX's vision is to supply msk good quality ready mixed concrete. Being the best means providing outstanding quality, service and value so we consistenly surpass our customers' expectations."
+  content : "MSK READYMIX's vision is to supply MSK good quality ready mixed concrete. Being the best means providing outstanding quality, service and value so we consistenly surpass our customers' expectations."
   button:
     enable : true
     label : "Contact With Us"
@@ -66,7 +66,7 @@ service:
       - "images/Barrackssilo_210324_0.jpg"
       - "images/Barrackssilo_210324.jpg"
       - "images/tipo.jpg"
-      content : "MSK READYMIX is part of the msk group work inc. subic. the ready mix plant is situated in subic bay freeport zone. the group is a corporation run business."
+      content : "MSK READYMIX is part of the MSK group work inc. subic. the ready mix plant is situated in subic bay freeport zone. the group is a corporation run business."
       button:
         enable : true
         label : "Check it out"
@@ -76,7 +76,7 @@ service:
     - title : "Our Mission"
       images:
       - "images/Barrackssilo_210324.jpg"
-      content : "MSK READYMIX's vision is to supply msk good quality ready mixed concrete. being the best means providing outstanding quality, service and value so we consistenly surpass our customers' expectations."
+      content : "MSK READYMIX's vision is to supply MSK good quality ready mixed concrete. being the best means providing outstanding quality, service and value so we consistenly surpass our customers' expectations."
       button:
         enable : true
         label : "Check it out"
@@ -105,7 +105,7 @@ service:
     - title : "Environmental Policy"
       images:
       - "images/tipo.jpg"
-      content : "MSK READYMIX operations are carried out by trained and competent personnel in such a way as to ensure, so far as is reasonably practicable, that the environment is not adversely affected by our operations. <br><br>Environmental protection plays an important part in the culture and behaviour of msk readmix. "
+      content : "MSK READYMIX operations are carried out by trained and competent personnel in such a way as to ensure, so far as is reasonably practicable, that the environment is not adversely affected by our operations. <br><br>Environmental protection plays an important part in the culture and behaviour of MSK READMIX. "
       button:
         enable : true
         label : "Check it out"
@@ -113,12 +113,12 @@ service:
 
 feature:
   enable : true
-  title : "Health and safety"
-  content: "At msk readymix we give the highest priority to safegurading the heath and safety of our employees and preventing incidents. we are 100% committed to carrying out our business activities in a safe and efficient manner and to care for the well being of those on our site who maybe impacted by our activities."
+  title : "Health and Safety"
+  content: "At MSK READYMIX we give the highest priority to safegurading the heath and safety of our employees and preventing incidents. we are 100% committed to carrying out our business activities in a safe and efficient manner and to care for the well being of those on our site who maybe impacted by our activities."
 
   feature_item:
     # feature item loop
-    - name : "Provide"
+    - name : "Training"
       icon : "fas fa-code"
       content : "Provide the necessary resources for instructions, training and supervisions to ensure the health and safety of our employees"
       
@@ -128,7 +128,7 @@ feature:
       content : "Investigate monitor and report our health and safety performance"
       
     # feature item loop
-    - name : "Maintain"
+    - name : "Communication"
       icon : "fas fa-user-clock"
       content : "Maintain open communication channels with our employees, contractors, customers and stakeholders who work with us"
       
@@ -138,7 +138,7 @@ feature:
       content : "Comply with company policies and procedures and all applicable laws."
       
     # feature item loop
-    - name : "workplace"
+    - name : "Provide"
       icon : "fas fa-tachometer-alt"
       content : "Provide a safe and healthy workplace for our employees and contractors by implementing and maintaining systems that prevent risk in our activities."
 
