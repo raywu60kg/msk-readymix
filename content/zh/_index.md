@@ -191,7 +191,7 @@ feature:
 ################### Screenshot ########################
 screenshot:
   enable : true
-  title : "Batching Plant Site Floor plan"
+  title : "配料廠場地平面圖"
   image : "images/Plan.jpg"
 
   
